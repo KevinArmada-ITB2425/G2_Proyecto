@@ -35,6 +35,6 @@
 ![alt text](ConfWeb.png)
 #### como el ciente entra a la web
 ![alt text](web1.jpg)
-![alt text](imagenes/web3.jpg)
-![alt text](imagenes/web2.jpg)
-![alt text](imagenes/web4.jpg)
+![alt text](web3.jpg)
+![alt text](web2.jpg)
+![alt text](web4.jpg)
